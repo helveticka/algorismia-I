@@ -1,8 +1,9 @@
 cff-version: 1.2.0
-message: "Si usas este software, por favor cítalo como se indica a continuación."
 authors:
+- family-names: "Marí"
+  given-names: "Juan José"
 - family-names: "Joan"
   given-names: "Harpo"
-title: "Pràctica final d'Algorísmia I"
-date-released: 2022
-url: "https://github.com/helveticka/algorismia_I"
+title: "Pràctica final d'Algorísmia II"
+date-released: "2022"
+url: "https://github.com/helveticka/algorismia_II"
