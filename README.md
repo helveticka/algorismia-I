@@ -1,5 +1,5 @@
 ## Autoría
-Desarrollado por Harpo Joan & Juan José Marí ([@helveticka](https://github.com/helveticka))
+Desarrollado por Harpo Joan ([@helveticka](https://github.com/helveticka)) & Juan José Marí
 
 ## Licencia
 Este trabajo está bajo una licencia Creative Commons Attribution-NonCommercial 4.0 International License.
