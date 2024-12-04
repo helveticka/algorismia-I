@@ -1,9 +1,9 @@
 cff-version: 1.2.0
 authors:
-- family-names: "Marí"
-  given-names: "Juan José"
 - family-names: "Joan"
   given-names: "Harpo"
+- family-names: "Marí"
+  given-names: "Juan José"
 title: "Pràctica final d'Algorísmia I"
 date-released: "2022"
 url: "https://github.com/helveticka/algorismia_I"
